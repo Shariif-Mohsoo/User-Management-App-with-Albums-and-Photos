@@ -1,5 +1,22 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": "f09c",
+      "name": "Willie Lynch"
+    },
+    {
+      "id": "c579",
+      "name": "Mercedes Nienow III"
+    },
+    {
+      "id": "8ef5",
+      "name": "Shane Lind DVM"
+    },
+    {
+      "id": "6b34",
+      "name": "Nettie Lehner"
+    }
+  ],
   "albums": [],
   "photos": []
 }
