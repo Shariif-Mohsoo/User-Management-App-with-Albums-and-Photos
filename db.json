@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "id": "f09c",
-      "name": "Willie Lynch"
-    },
-    {
       "id": "c579",
       "name": "Mercedes Nienow III"
     },
@@ -15,8 +11,73 @@
     {
       "id": "6b34",
       "name": "Nettie Lehner"
+    },
+    {
+      "id": "a129",
+      "name": "Ms. Shawna Yundt"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "21a3",
+      "title": "Hiking Trip",
+      "userId": "c579"
+    },
+    {
+      "id": "a9a8",
+      "userId": "c579",
+      "title": "Sleek Granite Chips"
+    },
+    {
+      "id": "06bf",
+      "userId": "c579",
+      "title": "Bespoke Soft Pizza"
+    },
+    {
+      "id": "7db3",
+      "userId": "c579",
+      "title": "Awesome Rubber Chicken"
+    },
+    {
+      "id": "1147",
+      "userId": "8ef5",
+      "title": "Ergonomic Granite Sausages"
+    },
+    {
+      "id": "6336",
+      "userId": "6b34",
+      "title": "Electronic Cotton Shoes"
+    },
+    {
+      "id": "0112",
+      "userId": "c579",
+      "title": "Handcrafted Granite Chips"
+    },
+    {
+      "id": "75f2",
+      "userId": "c579",
+      "title": "Electronic Bronze Chicken"
+    },
+    {
+      "id": "d14d",
+      "userId": "c579",
+      "title": "Generic Plastic Shirt"
+    },
+    {
+      "id": "4295",
+      "userId": "c579",
+      "title": "Elegant Wooden Soap"
+    },
+    {
+      "id": "d585",
+      "userId": "8ef5",
+      "title": "Licensed Fresh Keyboard"
+    },
+    {
+      "id": "9cba",
+      "userId": "8ef5",
+      "title": "Incredible Fresh Table"
+    }
+  ],
   "photos": []
 }
