@@ -1,83 +1,37 @@
 {
   "users": [
     {
-      "id": "c579",
-      "name": "Mercedes Nienow III"
-    },
-    {
-      "id": "8ef5",
-      "name": "Shane Lind DVM"
-    },
-    {
-      "id": "6b34",
-      "name": "Nettie Lehner"
-    },
-    {
-      "id": "a129",
-      "name": "Ms. Shawna Yundt"
+      "id": "0f23",
+      "name": "Megan Hand"
     }
   ],
   "albums": [
     {
-      "id": "21a3",
-      "title": "Hiking Trip",
-      "userId": "c579"
+      "id": "21d1",
+      "userId": "a9a8",
+      "title": "Sleek Rubber Chips"
     },
     {
-      "id": "a9a8",
-      "userId": "c579",
-      "title": "Sleek Granite Chips"
+      "id": "b92c",
+      "userId": "a9a8",
+      "title": "Electronic Fresh Bike"
     },
     {
-      "id": "06bf",
-      "userId": "c579",
-      "title": "Bespoke Soft Pizza"
+      "id": "c287",
+      "userId": "a9a8",
+      "title": "Luxurious Bronze Mouse"
     },
     {
-      "id": "7db3",
-      "userId": "c579",
-      "title": "Awesome Rubber Chicken"
-    },
-    {
-      "id": "1147",
-      "userId": "8ef5",
-      "title": "Ergonomic Granite Sausages"
-    },
-    {
-      "id": "6336",
-      "userId": "6b34",
-      "title": "Electronic Cotton Shoes"
-    },
-    {
-      "id": "0112",
-      "userId": "c579",
-      "title": "Handcrafted Granite Chips"
-    },
-    {
-      "id": "75f2",
-      "userId": "c579",
-      "title": "Electronic Bronze Chicken"
-    },
-    {
-      "id": "d14d",
-      "userId": "c579",
-      "title": "Generic Plastic Shirt"
-    },
-    {
-      "id": "4295",
-      "userId": "c579",
-      "title": "Elegant Wooden Soap"
-    },
-    {
-      "id": "d585",
-      "userId": "8ef5",
-      "title": "Licensed Fresh Keyboard"
-    },
-    {
-      "id": "9cba",
-      "userId": "8ef5",
-      "title": "Incredible Fresh Table"
+      "id": "3ee8",
+      "userId": "0f23",
+      "title": "Awesome Soft Chips"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "b831",
+      "albumId": "3ee8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=4321089163362304"
+    }
+  ]
 }
